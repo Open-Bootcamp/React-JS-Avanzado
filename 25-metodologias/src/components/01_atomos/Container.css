@@ -1,0 +1,16 @@
+.container {
+    display: flex;
+    align-items: center;
+    background-color: rgb(158, 255, 242);
+    min-width: 20px;
+    min-height: 20px;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.container.header {
+    background-color: #eee;
+    border-radius: 0px;
+    margin: 0px;
+}
