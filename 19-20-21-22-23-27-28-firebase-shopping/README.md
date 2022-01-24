@@ -1,70 +1,55 @@
-# Getting Started with Create React App
+# Explorando las capacidades de Firebase
+En las lecciones 19, 20, 21, 22, 23, 27 y 28 exploraremos al máximo las posibilidades que tenemos gracias a Firebase.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Lección 19 - Introducción a Firebase
+1. ¿Qué es Firebase?
+2. Servicios que ofrece Firebase
+3. Creando nuestra primera aplicación en Firebase
+4. Integrando la aplicación en ReactJS
 
-## Available Scripts
+## Lección 20 - Autenticación con Firebase
+1. ¿Cuáles son los distintos tipos de autenticación que tenemos con Firebase?
+2. Configuración de Firebase Auth dentro de nuestra aplicación
+3. Creación de login con Google y con email
+4. Creación de registro
+5. Gestión de sesiones con Firebase
 
-In the project directory, you can run:
+## Lección 21 - Notificaciones Push con Firebase
+1. ¿Qué son las notificaciones push?
+2. Cómo configurar las notificaciones push dentro de Firebase
+3. Configuración de nuestro proyecto de ReactJS para recepción de notificaciones de Firebase
+4. Envío de notificaciones a nuestra aplicación ReactJS a través de Firebase
 
-### `npm start`
+## Lección 22 - Base de datos FireStore de Firebase
+1. ¿Qué es FireStore?
+2. Creación de nuestra primera Base de datos con Firestore
+3. Características principales de Firestore
+4. Colecciones y documentos dentro de nuestra base de datos
+5. Índices de documentos en FireStore
+6. Control de acceso a datos mediante reglas
+7. CRUD (Create, Read, Update, Delete) desde nuestra aplicación de ReactJS
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Lección 23 - Hosting en Firebase
+1. ¿Cómo funciona el hosting en Firebase?
+2. Instalaciones necesarias dentro de nuestra aplicación de ReactJS
+3. Vinculación con un repositorio (privado) de git
+4. Despliegue en Firebase "manual" a través de CLI
+5. Automatización de despliegue con Github Actions
+6. Buenas prácticas en despliegue (Continuous Integration)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Lección 27 - Testing End To End con Cypress
+1. ¿Qué es Cypress?
+2. Ventajas principales
+3. Instalación y puesta en marcha
+4. Analizando los ejemplos nativos de Cypress
+5. ¿Cómo ejecutar Cypress por comandos?
+6. Fundamentos de Cypress
+7. Configuraciones principales
+8. Metodología BDD
+9. Creación de escenarios con Cypress
+10. Automatización de ejecución de Cypress
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Lección 28 - Automatización de tests End to End en nuestro proyecto final
+1. Utilizamos Cypress para automatizar el testing end to end en nuestro proyecto
+2. Realizamos diferentes casos de test para verificar que nuestra aplicación funciona de principio a fin
+3. Ejecución automatizada de casos de test
