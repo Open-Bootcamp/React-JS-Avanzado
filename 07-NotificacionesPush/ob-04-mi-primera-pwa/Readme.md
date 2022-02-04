@@ -8,3 +8,6 @@ En la lección 07 seguimos profundizando en la configuración del Service Worker
 4. Modificamos la función register()
 5. Gestionamos los permisos del navegador
 6. Crearemos una notificación push indicando que existe una nueva versión del código
+### Tarea Lecciones 07 y 08 (ve antes el vídeo de la lección 08)
+1. Añade un cuadro de texto con un botón en el Front
+2. Crea las funciones necesarias en el servidor para que la aplicación pueda enviar una notificación push con el contenido escrito en el cuadro de texto cada vez que pulse el botón

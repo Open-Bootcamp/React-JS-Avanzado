@@ -7,3 +7,6 @@ En la lección 26 analizaremos el comportamiento de ReactJS junto con las mejora
 3. Ejemplos simples de comportamiento de TypeScript en comparación con JavaScript
 4. Creamos una app con el template de TypeScript
 5. Trabajamos con TypeScript en un proyecto de ReactJS
+### Tarea Lección 26
+Crea un componente con Typescript para cambiar el modo de nuestra aplicación (light mode <-> dark mode)
+(Pista: Revisa la lección 17)

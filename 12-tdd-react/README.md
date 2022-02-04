@@ -11,3 +11,10 @@ En la lección 12 nos introducimos en el TDD, o Test Driven Development a travé
 7. Lanzamos el script de test con el objetivo de que salga fallido
 8. Refactorizamos los componentes
 9. Lanzamos el script de test con el objetivo de que salga exitoso
+### Tarea Lección 12
+¡Tenemos un nuevo requerimiento por parte del cliente! Debemos implementarlo utilizando TDD
+Cliente: "Necesito que la aplicación muestre por defecto un mensaje cuando todavía no se ha realizado ninguna búsqueda, este mensaje debe decir: Busca tus emisoras favoritas"
+1. Crea dos test cases diferentes para este nuevo requerimiento
+2. Haz que ambos casos de test salgan fallidos
+3. Crea la funcionalidad correspondiente para que estos casos de test pasen
+4. Lanza los tests y haz que pasen todos (también los que ya teníamos)
